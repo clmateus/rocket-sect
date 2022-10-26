@@ -1,6 +1,6 @@
 # <img src="./images/logo.svg" />
 
-<img src="./images/imgparagithub.jpeg" />
+<img src="./images/imgparagithub.jpg" />
 
 Rocket.sect é uma landing page de uma empresa de segurança da informação.
 
