@@ -15,4 +15,4 @@ Pude desenvolver algumas habilidades como:
   <li>Manipulação de imagens em diferentes formatos (SVG, PNG, etc.)</li>
 </ul>
 
-Você pode acessar esse projeto clicando <a href="#">aqui</a>.
+Você pode acessar esse projeto clicando <a href="https://clmateus.github.io/rocket-sect/">aqui</a>.
