@@ -1,5 +1,7 @@
 # <img src="./images/logo.svg" />
 
+<img src="./images/Group1.jpeg" />
+
 Rocket.sect é uma landing page de uma empresa de segurança da informação.
 
 Neste projeto, proposto como desafio do curso Explorer da Rocketseat, o desafio era recriar o layout deste site através apenas de um design do figma.
